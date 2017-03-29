@@ -1,0 +1,2 @@
+serviceClass: z.client.GreetingService
+path: D40760B573AA529E804AFCDB5E953FC7.gwt.rpc

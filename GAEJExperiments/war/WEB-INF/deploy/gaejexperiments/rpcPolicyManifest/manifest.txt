@@ -1,0 +1,3 @@
+# Module gaejexperiments
+# RPC service class, partial path of RPC policy file
+z.client.GreetingService, D40760B573AA529E804AFCDB5E953FC7.gwt.rpc
